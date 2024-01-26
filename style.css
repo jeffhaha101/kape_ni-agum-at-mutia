@@ -1,0 +1,60 @@
+
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(158, 140, 86);
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #fef2cf;
+    color: rgb(112, 97, 54);
+    padding: 10px;
+    font-size: medium;
+    display: flex;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a {
+    color: rgb(112, 97, 54);
+    text-decoration: none;
+    text-align: right;
+}
+.hero {
+    font-style: italic;
+    font-size: xx-large;
+    font-family: Allura;
+    color: #fef2cf;
+    display: flex;
+    justify-content: space-around;
+}
+.hero div {
+    gap: 10px;
+}
+.coffee-menu {
+    display: flex;
+    justify-content: space-around;
+    color: #fffbf0;
+}
+.coffee-menu div {
+    gap: 10px;
+}
+
+/* .coffee-menu {
+    gap:
+} */
+
+
