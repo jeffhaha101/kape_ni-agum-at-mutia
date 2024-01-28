@@ -38,19 +38,35 @@
         <section id="hero" class="hero">
             <h1>Your Comfort in Every Cup</h1>
             <h4>Let the coffee be your silent companion in the quiet symphony of solitude.</h4>
+            <button type="button" onclick="scrollToFeatured()">Explore</button>
+
         </section>
+
     </div>
 
-    <div>
-        <h1>Featured Products</h1>
-    </div>
     <section id="featured-products">
-        <h1>Home</h1>
+        <div class="div-body">
+            <div class="divider">
+                <span>Featured Products</span>
+            </div>
+        </div>
+
+
+
     </section>
 
     <footer>
 
     </footer>
+
+    <script>
+        function scrollToFeatured() {
+            var featuredSection = document.getElementById('featured-products');
+            if (featuredSection) {
+                featuredSection.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+    </script>
 </body>
 
 </html>
