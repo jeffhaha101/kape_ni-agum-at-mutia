@@ -1,4 +1,4 @@
-body,
+/* body,
 h1,
 h2,
 h3,
@@ -6,37 +6,94 @@ p,
 ul {
   margin: 0;
   padding: 0;
+} */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 body {
+  margin: 0;
   background-color: rgb(158, 140, 86);
   font-family: "Arial", sans-serif;
+  width: 100vw;
+  height: 100vh;
 }
 
 header {
   background-color: #fef2cf;
   color: rgb(112, 97, 54);
-  padding: 10px;
   font-size: medium;
   display: flex;
+  /* height: 15%; */
+  height: 60px;
+  justify-content: end;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20px;
+  margin-right: auto;
+}
+.banner a {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.banner img {
+  height: 100%;
+}
+
+nav {
+  align-self: center;
+  margin-right: 20px;
 }
 
 nav ul {
   list-style-type: none;
   display: flex;
-  gap: 50px;
   text-align: right;
+  padding: 0;
+  justify-content: center;
 }
 
 nav ul li {
   display: inline-block;
-  margin-right: 20px;
+  width: 80px;
+  text-align: center;
 }
 
-a {
+nav ul li a {
   color: rgb(112, 97, 54);
   text-decoration: none;
-  text-align: right;
+  position: relative;
 }
+
+nav ul li a::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 0;
+  background-color: #a5925a;
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
+}
+
+nav ul li a:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+nav ul li a:hover {
+  font-weight: bold;
+}
+
 .hero {
   font-style: italic;
   font-size: xx-large;
@@ -50,6 +107,19 @@ a {
 }
 
 /* Menu */
+.menu-title {
+  margin: 20px auto 10px auto;
+  text-align: center;
+  color: white;
+  text-shadow: -1px -1px 0px rgba(255, 255, 255, 0.3),
+    1px 1px 0px rgba(0, 0, 0, 0.8);
+  box-shadow: inset 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+  font-size: 50px;
+  width: 350px;
+  padding: 10px 0 10px 0;
+  border-radius: 50px;
+}
+
 .coffee-menu-container {
   color: white;
   width: 100%;
@@ -98,6 +168,7 @@ a {
 
 .coffee-container h2 {
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .coffee-container h3 {
@@ -107,5 +178,6 @@ a {
 
 .coffee-container p {
   font-size: 15px;
-  margin: 10px;
+  /* top, right, bot, left */
+  margin: 0 10px 20px 10px;
 }
