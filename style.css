@@ -38,8 +38,9 @@ body {
       rgba(33, 33, 33, 100%),
       rgba(192, 130, 103, 0.489)
     ),
-    url("coffee-bg.jpg");
+    url("coffee-interior.jpg");
   background-size: cover;
+  background-position: bottom;
 }
 .menu-header {
   background-color: var(--dark-color);
@@ -220,6 +221,62 @@ button:focus {
   height: 100vh;
 }
 
+/* Footer */
+.div-body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+}
+
+.footer-divider {
+  position: relative;
+}
+
+.footer-divider span {
+  padding: 0 10px;
+  font-size: 15px;
+  color: var(--plain-white);
+  font-weight: bold;
+}
+
+.footer-divider::before,
+.footer-divider::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 200%;
+  height: 5px;
+  background-color: var(--plain-white);
+  overflow: hidden;
+}
+
+.footer-divider::before {
+  right: 100%;
+  margin-right: 15px;
+  /* Adjust the spacing between the line and text */
+}
+
+.footer-divider::after {
+  left: 100%;
+  margin-left: 15px;
+  /* Adjust the spacing between the line and text */
+}
+
+footer {
+  background-color: var(--primary-color);
+}
+.social-icons h4 {
+  color: var(--plain-white);
+}
+
+.social-icons i {
+  font-size: 30px;
+  color: var(--plain-white);
+}
 /* Menu */
 /* .menu-title {
   margin: 20px auto 10px auto;
