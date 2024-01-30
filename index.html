@@ -6,55 +6,112 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>COZYCUP Coffee House</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 </head>
 
 <body>
-    <header>
-        <div>
-            <h1><b>COZYCUP Coffee</b></h1>
-            <img src="coff.png" style= "width: 500px; height: 500px;">
-        </div>
-        <br>    
-        <nav>
-            <ul>
-                <li>   
-                <a href="index.html" style="font-size: xx-large;">Home</a>
-                </li>
-                <li>
-                    <a href="menu.html" style="font-size: xx-large;">Menu</a>
-                </li>
-                <li>
-                    <a href="about.html" style="font-size: xx-large;">About Us</a>
-                </li>
-                <li>
-                    <a href="contact.html" style="font-size: xx-large;">Contact</a>
-                </li>
-            </ul>
-        </nav>
-    </header>
-    <br>
+    <div class="main-container">
+        <header>
+            <div class="banner">
+                <a href="index.html"><img src="coff.png"></a>
+                <h1><b>COZYCUP Coffee</b></h1>
 
-    <section id="hero" class="hero">
-        <div>
-            <h1>"Sip, Relax, Repeat."</h1>
-            <img src="fee.jpg" style="width: 745px; height: 500px;">
-        </div>
-        <div>
-            <h1>Featured Products</h1>
-        <img src="kap.jpg" style="width: 745px; height: 500px;">
-        </div>
-        
-        <br>
-        <br>
-    </section>
+            </div>
+            <br>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="menu.html">Menu</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About Us</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <section id="hero" class="hero">
+            <h1>Sip, Relax, Repeat.</h1>
+            <h4>Let the coffee be your silent companion in the quiet symphony of solitude.</h4>
+            <button type="button" onclick="scrollToFeatured()">Explore</button>
+
+        </section>
+
+    </div>
 
     <section id="featured-products">
-        <!-- Featured Products section content goes here -->
+        <div class="div-body">
+            <div class="divider">
+                <span>Featured Products</span>
+            </div>
+        </div>
+
+        <section id="coffee-menu-container" class="coffee-menu-container">
+            <div class="coffee-container">
+                <img src="car.jpg">
+                <h2>Caramel Macchiato</h2>
+                <p>The Caramel Macchiato is essentially a not-too-sweet vanilla latte topped with caramel.</p>
+                <h3>₱275.00</h3>
+            </div>
+
+            <div class="coffee-container">
+                <img src="caf.jpg">
+                <h2>Caffe Latte</h2>
+                <p>A caffe latte is an espresso with milk. Ideally served with latte art on top and not too much foam.
+                </p>
+                <h3>₱225.00</h3>
+            </div>
+
+            <div class="coffee-container">
+                <img src="cap.jpg">
+                <h2>Cappuccino</h2>
+                <p>A cappuccino is the perfect balance of espresso, steamed milk and foam.</p>
+                <h3>₱225.00</h3>
+            </div>
+
+            <div class="coffee-container">
+                <img src="choc.jpg">
+                <h2>Chocolate Cappuccino</h2>
+                <p>A decadent coupling of rich intense espresso, creamy, frothed milk and deep, dark chocolate.</p>
+                <h3>₱285.00</h3>
+            </div>
+        </section>
+
+
+
     </section>
 
     <footer>
-        
+        <div class="div-body">
+            <div class="footer-divider">
+                <span>Get In Touch With Us</span>
+            </div>
+        </div>
+
+        <div class="social-icons">
+            <h4>Follow Us</h4>
+
+            <i class="fa-brands fa-square-facebook"></i>
+
+        </div>
+
     </footer>
+
+    <script>
+        function scrollToFeatured() {
+            var featuredSection = document.getElementById('featured-products');
+            if (featuredSection) {
+                featuredSection.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+    </script>
 </body>
 
 </html>
