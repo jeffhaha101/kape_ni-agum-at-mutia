@@ -34,7 +34,7 @@ Jeremiah A. Mutia
     <img src="img/mack.jpg" alt="Image 2" width="150" style="border-radius: 50%;">
 </a>
 
-Ronnilynnuel James Agum
+Ronnillynuel James Agum
 
 ![Kapehan ni Bogart Authors](img/ron.jpg)
 ![Kapehan ni Bogart Authors](img/jeff.jpg)
@@ -43,7 +43,7 @@ Ronnilynnuel James Agum
 
 Feel free to contact us for deliveries and reservation. You are always welcome to Kapehan ni Bogart.
 
- **Name:** Ronnilynnuel James Agum
+ **Name:** Ronnillynuel James Agum
 
  **Email:** 202180414@psu.palawan.edu.ph
 
