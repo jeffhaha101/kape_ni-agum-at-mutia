@@ -47,7 +47,7 @@ Feel free to contact us for deliveries and reservation. You are always welcome t
 
  --- 
 
-***&copy; 2023 CozyCup Coffee. All Rights Reserved.**
+**&copy; 2023 CozyCup Coffee. All Rights Reserved.**
 
 Connect with us on our social media:
 
