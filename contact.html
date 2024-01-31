@@ -4,62 +4,107 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="stylecss">
+    <link rel="stylesheet" href="style.css">
     <title>Contact - COZYCUP Coffee House</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 </head>
 
 <body>
-    <header>
-        <div>
+    <header class="menu-header">
+        <div class="banner">
+            <a href="index.html"><img src="coff.png"></a>
             <h1><b>COZYCUP Coffee</b></h1>
-            <img src="coff.png" style= "width: 500px; height: 500px;">
+
         </div>
-        <br>    
+        <br>
         <nav>
             <ul>
-                <li>   
-                <a href="index.html" style="font-size: xx-large;">Home</a>
+                <li>
+                    <a href="index.html">Home</a>
                 </li>
                 <li>
-                    <a href="menu.html" style="font-size: xx-large;">Menu</a>
+                    <a href="menu.html">Menu</a>
                 </li>
                 <li>
-                    <a href="about.html" style="font-size: xx-large;">About Us</a>
+                    <a href="about.html">About Us</a>
                 </li>
                 <li>
-                    <a href="contact.html" style="font-size: xx-large;">Contact</a>
+                    <a href="contact.html">Contact</a>
                 </li>
             </ul>
         </nav>
     </header>
     <br>
 
-    <footer>
-        <div class="contact-info">
-            <p>Email: darc_info@gmail.com</p>
-            <p>Phone: +639087839283</p>
+    <div class="div-body">
+        <div class="divider">
+            <span>
+                <h2>About Us</h2>
+            </span>
         </div>
-        <div class="social-media">
-            <a href="#"><img src="fb.png" alt="Don and Ron Café"></a>
-            <a href="#"><img src="x.png" alt="@donroncafe"></a>
-            <a href="#"><img src="insta.png" alt="@darc"></a>
+    </div>
+
+
+    <section class="contacts-container">
+        <div class="form-group">
+            <div class="form-menu">
+                <iframe class="map"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.565817780831!2d121.01128467426585!3d14.566803977904902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c9c5fc700125%3A0xd4b1643d3e67b1f2!2sCozyCup!5e0!3m2!1sen!2sph!4v1706631837770!5m2!1sen!2sph"
+                    allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+
+            <div class="form-container">
+
+                <form class="form-menu" action="#" method="post">
+                    <h2>Contact Form</h2>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="4" required></textarea>
+
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+
         </div>
-        <div class="newsletter">
-            <h3>Subscribe to our Newsletter</h3>
-            <form id="newsletterForm">
-                <input type="email" placeholder="Enter your email">
-                <button type="submit">Subscribe</button>
-            </form>
+
+        <div class="contacts-information">
+            <p>Makati, Metro Manila</p>
+            <p>+63 (999) 123-4567</p>
+            <p>info@cozycupcoffee.com</p>
+
         </div>
-        <div class="quick-links">
-            <h3>Quick Links</h3>
-            <ul>
-                <li><a id="home-link" href="index.html">Home</a></li>
-                <li><a id="menu-link" href="menu.html">Menu</a></li>
-                <li><a id="about-link" href="about.html">About Us</a></li>
-                <li><a id="contact-link" href="contact.html">Contact</a></li>
-            </ul>
+    </section>
+
+
+    <footer class="body">
+
+
+        <div class="footer-group">
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="menu.html">Menu</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About Us</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </nav>
         </div>
+    </footer>
 
 </body>
 
