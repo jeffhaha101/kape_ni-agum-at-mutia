@@ -1,7 +1,7 @@
 # Cozy Cup Coffee 
 
 ## Project Description 
-Cozy Cup COffee is a web-based application designed to streamline and enhance the cafe experience for both customers and staff. The goal is to provide a cozy and efficient environment for ordering and enjoying your favorite beverages and snacks.
+Cozy Cup Coffee is a web-based application designed to streamline and enhance the cafe experience for both customers and staff. The goal is to provide a cozy and efficient environment for ordering and enjoying your favorite beverages and snacks.
 
 ## Features 
 - User-friendly Interface: A clean and intuitive interface for easy navigation.
@@ -15,29 +15,26 @@ Cozy Cup COffee is a web-based application designed to streamline and enhance th
 ### Menu Page
 ![MenuPage](menu.jpg)
 
-### About Us
-![AboutUs](about.jpg)
+### About us
+![AboutPage](about.jpg)
 
 ### Contact
-![Contact](contact.jpg)
+![ContactPage](contact.jpg)
 
-# About the Authors
+### About Us
 
+#### Jeremiah A. Mutia
 <a href="https://github.com/jeffhaha101">
-    <img src="img/jeff.jpg" alt="Image 1" width="150" style="border-radius: 50%;">
+    <img src="img/jeff.jpg" alt="Jeff's Image" width="150" style="border-radius: 50%;">
 </a>
 
-Jeremiah A. Mutia
-
-
+#### Ronnillynuel James Agum
 <a href="https://github.com/rondonbrij">
-    <img src="img/pfp.jpg" alt="Image 2" width="150" style="border-radius: 50%;">
+    <img src="img/pfp.jpg" alt="Ron's Image" width="150" style="border-radius: 50%;">
 </a>
 
-Ronnillynuel James Agum
-
-![kape_ni-agum-at-mutia](img/ron.jpg)
-![kape_ni-agum-at-mutia](img/jeff.jpg)
+![Ron's Image](img/ron.jpg)
+![Jeff's Image](img/jeff.jpg)
 
 ## Contact Us
 
@@ -50,4 +47,3 @@ Feel free to contact us for deliveries and reservation. You are always welcome t
  **Name:** Jeremiah A. Mutia
 
  **Email:** 202180201@psu.palawan.edu.ph
-
