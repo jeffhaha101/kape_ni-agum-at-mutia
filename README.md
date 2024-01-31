@@ -38,7 +38,7 @@ Cozy Cup Coffee is a web-based application designed to streamline and enhance th
 
 ## Contact Us
 
-Feel free to contact us for deliveries and reservation. You are always welcome to Kapehan ni Bogart.
+Feel free to contact us for deliveries and reservation. You are always welcome to CozyCup Coffee.
 
  **Name:** Ronnillynuel James Agum
 
