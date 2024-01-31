@@ -10,16 +10,16 @@ Cozy Cup COffee is a web-based application designed to streamline and enhance th
 ## Screen Captures 
 
 ### Home Page
-![HomePage](img/home.jpg)
+![HomePage](home.jpg)
 
 ### Menu Page
-![MenuPage](img/menu.jpg)
+![MenuPage](menu.jpg)
 
 ### About Us
-![AboutUs]()
+![AboutUs](about.jpg)
 
 ### Contact
-![Contact]()
+![Contact](contact.jpg)
 
 # About the Authors
 
