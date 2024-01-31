@@ -53,13 +53,13 @@ Connect with us on our social media:
 
 **Jeremiah Mutia**
 
-[![Facebook](images/jfb.png)](https://www.facebook.com/jeremiah.mutia.03)
+[![Facebook](images/jfb.jpg)](https://www.facebook.com/jeremiah.mutia.03)
 
 [![Github](images/jeff.jpg)](https://github.com/jeffhaha101)
 
 **Ronnillynuel James Agum**
 
-[![Facebook](images/rfb.png)](https://www.facebook.com/ronxxxron)
+[![Facebook](images/rfb.jpg)](https://www.facebook.com/ronxxxron)
 
 [![Github](images/pfp.jpg)](https://github.com/rondonbrij)
 
