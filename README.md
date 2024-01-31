@@ -10,16 +10,16 @@ Cozy Cup Coffee is a web-based application designed to streamline and enhance th
 ## Screen Captures 
 
 ### Home Page
-![HomePage](images/home.jpg)
+![HomePage](images/home.png)
 
 ### Menu Page
-![MenuPage](images/menu.jpg)
+![MenuPage](images/menu.png)
 
 ### About us
-![AboutPage](images/about.jpg)
+![AboutPage](images/about.png)
 
 ### Contact
-![ContactPage](images/contact.jpg)
+![ContactPage](images/contact.png)
 
 ### About Us
 
@@ -32,9 +32,6 @@ Cozy Cup Coffee is a web-based application designed to streamline and enhance th
 <a href="https://github.com/rondonbrij">
     <img src="images/pfp.jpg" alt="Ron's Image" width="150" style="border-radius: 50%;">
 </a>
-
-![Ron's Image](images/pfp.jpg)
-![Jeff's Image](images/jeff.jpg)
 
 ## Contact Us
 
@@ -56,13 +53,13 @@ Connect with us on our social media:
 
 **Jeremiah Mutia**
 
-[![Facebook](img/Facebook.png)](https://www.facebook.com/jeremiah.mutia.03)
+[![Facebook](images/jfb.png)](https://www.facebook.com/jeremiah.mutia.03)
 
-[![Github](img/Github.png)](https://github.com/jeffhaha101)
+[![Github](images/jeff.jpg)](https://github.com/jeffhaha101)
 
 **Ronnillynuel James Agum**
 
-[![Facebook](img/Facebook.png)](https://www.facebook.com/ronxxxron)
+[![Facebook](images/rfb.png)](https://www.facebook.com/ronxxxron)
 
-[![Github](img/Github.png)](https://github.com/rondonbrij)
+[![Github](images/jeff.jpg)](https://github.com/rondonbrij)
 
