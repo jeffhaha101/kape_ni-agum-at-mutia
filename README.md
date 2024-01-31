@@ -52,14 +52,14 @@ Feel free to contact us for deliveries and reservation. You are always welcome t
 Connect with us on our social media:
 
 **Jeremiah Mutia**
-
+## Facebook
 [![Facebook](images/jfb.jpg)](https://www.facebook.com/jeremiah.mutia.03)
-
+## Github
 [![Github](images/jeff.jpg)](https://github.com/jeffhaha101)
 
 **Ronnillynuel James Agum**
-
+## Facebook
 [![Facebook](images/rfb.jpg)](https://www.facebook.com/ronxxxron)
-
+## Github
 [![Github](images/pfp.jpg)](https://github.com/rondonbrij)
 
