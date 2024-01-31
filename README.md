@@ -10,16 +10,16 @@ Cozy Cup Coffee is a web-based application designed to streamline and enhance th
 ## Screen Captures 
 
 ### Home Page
-![HomePage](home.jpg)
+![HomePage](img/home.jpg)
 
 ### Menu Page
-![MenuPage](menu.jpg)
+![MenuPage](img/menu.jpg)
 
 ### About us
-![AboutPage](about.jpg)
+![AboutPage](img/about.jpg)
 
 ### Contact
-![ContactPage](contact.jpg)
+![ContactPage](img/contact.jpg)
 
 ### About Us
 
@@ -47,3 +47,22 @@ Feel free to contact us for deliveries and reservation. You are always welcome t
  **Name:** Jeremiah A. Mutia
 
  **Email:** 202180201@psu.palawan.edu.ph
+
+ --- 
+
+***&copy; 2023 CozyCup Coffee. All Rights Reserved.**
+
+Connect with us on our social media:
+
+**Jeremiah Mutia**
+
+[![Facebook](img/Facebook.png)](https://www.facebook.com/jeremiah.mutia.03)
+
+[![Github](img/Github.png)](https://github.com/jeffhaha101)
+
+**Ronnillynuel James Agum**
+
+[![Facebook](img/Facebook.png)](https://www.facebook.com/ronxxxron)
+
+[![Github](img/Github.png)](https://github.com/rondonbrij)
+
