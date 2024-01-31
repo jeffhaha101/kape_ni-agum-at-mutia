@@ -31,13 +31,13 @@ Jeremiah A. Mutia
 
 
 <a href="https://github.com/rondonbrij">
-    <img src="img/mack.jpg" alt="Image 2" width="150" style="border-radius: 50%;">
+    <img src="img/pfp.jpg" alt="Image 2" width="150" style="border-radius: 50%;">
 </a>
 
 Ronnillynuel James Agum
 
-![Kapehan ni Bogart Authors](img/ron.jpg)
-![Kapehan ni Bogart Authors](img/jeff.jpg)
+![kape_ni-agum-at-mutia](img/ron.jpg)
+![kape_ni-agum-at-mutia](img/jeff.jpg)
 
 ## Contact Us
 
