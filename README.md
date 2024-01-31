@@ -10,31 +10,31 @@ Cozy Cup Coffee is a web-based application designed to streamline and enhance th
 ## Screen Captures 
 
 ### Home Page
-![HomePage](img/home.jpg)
+![HomePage](images/home.jpg)
 
 ### Menu Page
-![MenuPage](img/menu.jpg)
+![MenuPage](images/menu.jpg)
 
 ### About us
-![AboutPage](img/about.jpg)
+![AboutPage](images/about.jpg)
 
 ### Contact
-![ContactPage](img/contact.jpg)
+![ContactPage](images/contact.jpg)
 
 ### About Us
 
 #### Jeremiah A. Mutia
 <a href="https://github.com/jeffhaha101">
-    <img src="img/jeff.jpg" alt="Jeff's Image" width="150" style="border-radius: 50%;">
+    <img src="images/jeff.jpg" alt="Jeff's Image" width="150" style="border-radius: 50%;">
 </a>
 
 #### Ronnillynuel James Agum
 <a href="https://github.com/rondonbrij">
-    <img src="img/pfp.jpg" alt="Ron's Image" width="150" style="border-radius: 50%;">
+    <img src="images/pfp.jpg" alt="Ron's Image" width="150" style="border-radius: 50%;">
 </a>
 
-![Ron's Image](img/ron.jpg)
-![Jeff's Image](img/jeff.jpg)
+![Ron's Image](images/pfp.jpg)
+![Jeff's Image](images/jeff.jpg)
 
 ## Contact Us
 
